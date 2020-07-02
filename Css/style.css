@@ -109,7 +109,7 @@ label #sidebar-btn:hover{
 }
 .container{
     margin-left: 250px;
-    background:url(background.jpg) no-repeat;
+    background:url(../img/background.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
